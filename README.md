@@ -1,0 +1,1 @@
+These are labs/projects I have completed as a part of the 2TA4-"Embedded Systems Design I" course at McMaster University. The course covered topics such as: **Digital and analog systems, sensors and actuators, optical and analog isolation, pulse-width modulation, (de-)multiplexing and Embedded system design and documentation. **
